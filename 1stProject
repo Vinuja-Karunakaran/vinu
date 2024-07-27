@@ -1,1 +1,39 @@
-create my 1st project file
+<html>
+    <head>
+        <title>
+            Events
+        </title>
+        <link rel="icon" href="image.png">
+    </head>
+    <body bgcolor="black" style="color: white;">
+        <center>
+            <h1> Upcoming Events 📅</h1>
+            <p> don't miss any of these options!!!!</p>
+        </center>
+        <hr>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum debitis dicta veritatis ipsam nostrum quaerat placeat ad, praesentium alias doloremque ab? Odio, ullam perspiciatis iste laudantium molestiae itaque rerum quibusdam beatae odit! Rerum reprehenderit quaerat, nulla cumque odit animi, itaque velit ipsum magni facilis inventore culpa! Voluptates voluptate accusamus at itaque non aliquam reiciendis pariatur totam fugiat tenetur! Recusandae delectus iste similique rerum fugiat officiis ducimus cum esse obcaecati repudiandae ex, vel minus. Eius voluptatem alias illo est eligendi facilis rerum impedit accusamus commodi officia. Explicabo officia id tenetur similique recusandae a amet. Ea nesciunt blanditiis possimus distinctio reprehenderit.
+        </p>
+        <center>
+            <img src="upevent.png" width="500px" alt="epcoming poster image">
+        <h1> Photo Gallery Event </h1>
+        <h2> Free Entry | Free Food | Pets are Not Allowed</h2>
+    </center>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus quas nobis accusamus perspiciatis quasi esse quaerat a atque, possimus ullam beatae labore nihil quibusdam odit, ipsam id tempore quo nisi ratione earum. Numquam iure eligendi cupiditate veniam accusamus odit eum, voluptates possimus eveniet fuga aperiam deserunt illo dolore quasi. Commodi.
+    </p>
+    <center>
+        <img src="game.jpeg" alt="gaming poster"  width="500px">
+        <h1><a href="https://www.myntra.com/">Fashion Store</a></h1>
+        <h2> Free Entry | Free Food | Pets are Not Allowed</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus quas nobis accusamus perspiciatis quasi esse quaerat a atque, possimus ullam beatae labore nihil quibusdam odit, ipsam id tempore quo nisi ratione earum. Numquam iure eligendi cupiditate veniam accusamus odit eum, voluptates possimus eveniet fuga aperiam deserunt illo dolore quasi. Commodi.
+        </p>
+    <hr>
+    <h1>Contact</h1>
+    <h2> +94 759275283 | Vinuja.karuna@gmail.com</h2>
+    <p> homagama,colombo,srilanka</p>
+</center>
+    </body>
+
+</html>
